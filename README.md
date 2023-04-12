@@ -2,4 +2,4 @@
   Try to follow the randomly generated sequence! 
   Frameworks used : jQuery
 
-Demo Link : floresloyd.github.io/simon/
+Demo Link : https://floresloyd.github.io/simon/
